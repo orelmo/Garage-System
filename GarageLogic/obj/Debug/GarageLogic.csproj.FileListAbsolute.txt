@@ -1,0 +1,6 @@
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C#\B20 Ex03 RoyFassberg 311248058 OrelMoshe 313520546\Garage-System\GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C#\B20 Ex03 RoyFassberg 311248058 OrelMoshe 313520546\Garage-System\GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C#\B20 Ex03 RoyFassberg 311248058 OrelMoshe 313520546\Garage-System\GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C#\B20 Ex03 RoyFassberg 311248058 OrelMoshe 313520546\Garage-System\GarageLogic\obj\Debug\GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C#\B20 Ex03 RoyFassberg 311248058 OrelMoshe 313520546\Garage-System\GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C#\B20 Ex03 RoyFassberg 311248058 OrelMoshe 313520546\Garage-System\GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
